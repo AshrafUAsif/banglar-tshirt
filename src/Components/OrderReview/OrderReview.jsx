@@ -8,4 +8,4 @@ const OrderReview = () => {
     );
 };
 
-export default OrderReview;<h2>Order Review Page</h2>
+export default OrderReview;
